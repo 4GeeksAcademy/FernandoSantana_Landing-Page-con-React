@@ -11,7 +11,9 @@ import Home from "./component/home.jsx";
 //render your react application
 ReactDOM.createRoot(document.getElementById('app')).render(<Home/>);
 
+import React, { useState } from 'react';
 
-  
+function App() {
+}
 
-
+export default App;
